@@ -1,0 +1,5 @@
+rsc = "resources/"
+BIN0 = rsc + "bin0.png"
+BIN1 = rsc + "bin1.png"
+BIN2 = rsc + "bin2.png"
+BIN3 = rsc + "bin3.png"
