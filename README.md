@@ -1,1 +1,1 @@
-This is my version of minibin by King Triton (https://github.com/king-tri-ton/minibin) for win11. Well, original minibin work on windows 10 as good as on windows 11, but I only realized this after writing my own minibin. So, here it is.
+This is my version of minibin by King Triton (https://github.com/king-tri-ton/minibin) for Windows 11. Well, the original minibin works on Windows 10 as well as on Windows 11, but I only realized this after writing my own minibin. So, here it is.
