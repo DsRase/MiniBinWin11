@@ -1,0 +1,1 @@
+This is my version of minibin by King Triton (https://github.com/king-tri-ton/minibin) for win11. Well, original minibin work on windows 10 as good as on windows 11, but I only realized this after writing my own minibin. So, here it is.
